@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Career Command Center",
+  "description": "Your Career Journey, Powered by Data. Track job applications, monitor interviews, practice AI interviews, check resume scores, and manage your job search in a high-performance workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
